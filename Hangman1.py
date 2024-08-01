@@ -91,10 +91,7 @@ def hangman():
                             print("      / \     ")
                             break
                 
-                
-
-                      
-
+                                 
 name=input("Enter your name -->")
 print("Welcome", name,"!")
 print("try to guess the word in less than 10 attemps to save the man!!")
