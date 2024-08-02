@@ -1,1 +1,2 @@
 # Hangman_Game
+Hangman is a word guessing game where the player tries to guess a word by suggesting letters within a certain number of guesses. The game selects a random word from a predefined list, and the player has to guess the word letter by letter. The player has a limited number of incorrect guesses before the game ends. For each incorrect guess, a part of the hangman figure is drawn, representing player's mistake. 
